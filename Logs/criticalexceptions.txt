@@ -1,0 +1,26 @@
+
+SYSTEM CRITICAL EXCEPTION: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.PlusEnvironment.Initialize() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 72
+   em Plus.Program.Main(String[] Args) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Program.cs:linha 43
+
+
+SYSTEM CRITICAL EXCEPTION: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.PlusEnvironment.Initialize() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 72
+   em Plus.Program.Main(String[] Args) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Program.cs:linha 43
+
+
+SYSTEM CRITICAL EXCEPTION: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.PlusEnvironment.Initialize() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 72
+   em Plus.Program.Main(String[] Args) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Program.cs:linha 43
+
+
+SYSTEM CRITICAL EXCEPTION: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.PlusEnvironment.Initialize() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 72
+   em Plus.Program.Main(String[] Args) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Program.cs:linha 43
+
+
+SYSTEM CRITICAL EXCEPTION: System.Collections.Generic.KeyNotFoundException: A chave fornecida n?o estava presente no dicion?rio.
+   em System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   em Plus.PlusEnvironment.Initialize() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 74
+   em Plus.Program.Main(String[] Args) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Program.cs:linha 43
+

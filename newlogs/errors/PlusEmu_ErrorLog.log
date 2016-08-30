@@ -1,0 +1,102 @@
+Date/Time: 2016-07-20 15:55:58,465
+Thread: 1
+Error in command [shutdown]: System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Plus.PlusEnvironment.PerformShutDown() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\PlusEnvironment.cs:linha 350
+   em Plus.Core.ConsoleCommandHandler.InvokeCommand(String inputData) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Core\ConsoleCommandHandler.cs:linha 31
+
+Date/Time: 2016-07-20 16:04:25,744
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:12:31,622
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:12:44,807
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:12:57,938
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:13:23,779
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:14:45,670
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:30:31,667
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 16:37:22,143
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 18:31:58,104
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 18:59:41,126
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 19:03:24,284
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 19:06:32,597
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 19:58:14,856
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 20:51:21,822
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-20 21:19:39,305
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-21 10:10:00,268
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-07-21 10:28:03,233
+Thread: 1
+dasd is an unknown or unsupported command. Type help for more information
+
+Date/Time: 2016-07-21 13:18:52,375
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:02:13,444
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:03:08,059
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:14:42,783
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:18:45,065
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:19:10,305
+Thread: 1
+Failed to connect to the specified MySQL server.
+
+Date/Time: 2016-08-30 17:19:27,147
+Thread: 1
+Failed to connect to the specified MySQL server.
+

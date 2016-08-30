@@ -1,0 +1,24 @@
+
+
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient Session, Boolean NotifyClient, Boolean NotifyKick) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\RoomUserManager.cs:linha 356
+
+
+
+
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.GameClients.GameClient.Disconnect() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 315
+
+
+
+
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.RoomUserManager.RemoveUserFromRoom(GameClient Session, Boolean NotifyClient, Boolean NotifyKick) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\RoomUserManager.cs:linha 356
+
+
+
+
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.GameClients.GameClient.Disconnect() na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 315
+
+

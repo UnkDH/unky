@@ -1,0 +1,41 @@
+
+Error in packet [670] BODY: [0]	:hire Unk[0][0][0][0][0][0][0]
+: 
+System.IndexOutOfRangeException: O ?ndice estava fora dos limites da matriz.
+   em Plus.HabboHotel.Rooms.Chat.Commands.HireCommand.Execute(GameClient Session, Room Room, String[] Params) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\Roleplay\WorkingCommands.cs:linha 165
+   em Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:linha 106
+   em Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:linha 72
+   em Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\PacketManager.cs:linha 153
+   em Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 73
+
+
+Error in packet [670] BODY: [0]:shoot[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: O ?ndice estava fora dos limites da matriz.
+   em Plus.HabboHotel.Rooms.Chat.Commands.User.ShootCommand.Execute(GameClient Session, Room Room, String[] Params) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\Roleplay\CombatCommands.cs:linha 220
+   em Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:linha 106
+   em Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:linha 72
+   em Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\PacketManager.cs:linha 153
+   em Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 73
+
+
+Error in packet [670] BODY: [0]:shoot Cleon[0][0][0][0][0][0][0]: 
+System.InvalidCastException: Objeto n?o pode ser convertido de DBNull em outros tipos.
+   em System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   em Plus.HabboHotel.Rooms.Chat.Commands.User.ShootCommand.Execute(GameClient Session, Room Room, String[] Params) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\Roleplay\CombatCommands.cs:linha 305
+   em Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:linha 106
+   em Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:linha 72
+   em Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\PacketManager.cs:linha 153
+   em Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 73
+
+
+Error in packet [670] BODY: [0]	:taxi id1[0][0][0][0][0][0][0]5: 
+System.FormatException: A cadeia de caracteres de entrada n?o estava em um formato correto.
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em Plus.HabboHotel.Rooms.Chat.Commands.User.TaxiCommand.Execute(GameClient Session, Room Room, String[] Params) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\Roleplay\MiscCommands.cs:linha 916
+   em Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:linha 106
+   em Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:linha 72
+   em Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\Communication\Packets\PacketManager.cs:linha 153
+   em Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) na C:\Users\Rafael\Desktop\Arquivos Habbo\DevHotel\HabboHotel\GameClients\GameClient.cs:linha 73
+
